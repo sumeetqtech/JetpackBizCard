@@ -1,1 +1,1 @@
-Demo project for leraning Jetpack compose UI 
+Demo project for learning Jetpack compose UI 
